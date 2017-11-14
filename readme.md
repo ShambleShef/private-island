@@ -6,7 +6,7 @@
 
 ## Description
 
-This application is a website for the resort "Pablo's Secret Hideout". It give the end user contact information, information on how to book a room, photos, and a list of activities to do at the resort.
+This application is a website for the resort "Pablo's Secret Hideout". It give the end user contact information, information on how to book a room, photos, and a list of activities to do at the resort. Just open index.html in your favorite browser after downloading or cloning from GitHub, and have fun!
 
 ## Technologies used:
 
@@ -16,6 +16,11 @@ css
 ## Known bugs:
 
 Please alert us to any bugs in our program
+
+## GitHub Pages Links:
+
+https://shambleshef.github.io/private-island/
+https://darthtoad.github.io/private-island/
 
 ## Contact Details:
 
