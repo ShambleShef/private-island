@@ -1,3 +1,58 @@
 img {
   max-height: 500px;
 }
+
+body {
+  background: url("../img/background2.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: green;
+  font-size: 50px;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+h1 {
+  background-color: gold;
+  color: black;
+  font-family: cursive;
+}
+
+h2 {
+  background-color: #123456;
+  color: #654321;
+  border-color: grey;
+  border-width: 50px;
+}
+
+strong {
+  background-color: black;
+}
+
+p {
+  color: darkgreen;
+  font-family: fantasy;
+  text-align: right;
+}
+
+ul {
+  font-family: monospace;
+  background-color: limegreen;
+}
+
+ol {
+  color: #67FA34
+}
+
+img {
+  border-color: pink;
+  border-width: 20px;
+}
+
+footer {
+  text-align: right;
+  background-color: salmon;
+>>>>>>> desert-theme
+}
