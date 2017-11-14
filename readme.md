@@ -10,7 +10,7 @@ This application is a website for the resort "Pablo's Secret Hideout". It give t
 
 ## Technologies used:
 
-html5
+html5  
 css
 
 ## Known bugs:
@@ -19,12 +19,12 @@ Please alert us to any bugs in our program
 
 ## GitHub Pages Links:
 
-https://shambleshef.github.io/private-island/
+https://shambleshef.github.io/private-island/  
 https://darthtoad.github.io/private-island/
 
 ## Contact Details:
 
-Sam: Darth.Toad@gmail.com
+Sam: Darth.Toad@gmail.com  
 Matt: matt_starin754@hotmail.com
 
 ### License
